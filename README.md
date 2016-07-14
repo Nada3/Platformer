@@ -1,2 +1,2 @@
 # Platformer
-A platformer engine for using Löve2D
+A platformer engine using Löve2D
